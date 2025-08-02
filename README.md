@@ -48,7 +48,7 @@ This system demonstrates cutting-edge AI agent architecture for financial tradin
 
 1. **Clone the repository**
    ```bash
-   git clone [your-repo-url]
+   git clone https://github.com/Samirsaiyed/Real-Time-Trading-Agent
    cd realtime-trading-system
    ```
 
